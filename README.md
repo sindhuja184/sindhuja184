@@ -6,7 +6,6 @@
 - 👩‍💻 Solved **400+ DSA problems on LeetCode** and **100+ on GeeksforGeeks**
 - 🛠️ Experienced with **Python, Java, SQL**, and libraries like **TensorFlow, Scikit-learn, NumPy, Pandas**
 - 🌐 Contributed to **GirlScript Summer of Code Ext 2024** – ranked **197th out of 60,000+**
-- ⚡ Fun Fact: I love making intelligent systems talk like humans 🤖
 
 ---
 
@@ -33,7 +32,6 @@
 ### 🏅 Achievements
 
 - 🥇 4th Place – Coding Contest by Coding Club, JNTU
-- 🛠️ Qualified – Round 2, Tech Saviskar Hackathon at Vasavi College
 - 🔥 Ranked **1675** in GeeksforGeeks Contest
 
 ---
