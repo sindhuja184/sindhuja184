@@ -7,18 +7,6 @@
 - 🛠️ Experienced with **Python, Java, SQL**, and libraries like **TensorFlow, Scikit-learn, NumPy, Pandas**
 - 🌐 Contributed to **GirlScript Summer of Code Ext 2024** – ranked **197th out of 60,000+ participants**
 
----
-
-### 🚀 Projects
-
-- 🔤 **[Image Caption Generator](#)**  
-  Built a deep learning model combining **CNN (ResNet50)** for feature extraction and **LSTM** for language generation on the **Flickr8k dataset**.
-
-- 📹 **[YouTube Transcript Summarizer](#)**  
-  Web app using **Hugging Face Transformers**, **Django**, and **YouTube Transcript API** to extract and summarize video subtitles with 0.9 cosine similarity.
-
----
-
 ### 🛠️ Skills & Tools
 
 **Languages:** `Python`, `Java`, `C`, `SQL`  
@@ -30,7 +18,7 @@
 ---
 
 ### 🏅 Achievements
-
+- AIR 7400 GATE CS
 - 🥇 4th Place – Coding Contest by Coding Club, JNTU
 - 🔥 Ranked **1675** in GeeksforGeeks Contest
 
