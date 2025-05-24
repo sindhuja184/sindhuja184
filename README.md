@@ -9,8 +9,6 @@
 
 ### 🏅 Achievements
 - AIR 7400 GATE CS
-- 🥇 4th Place – Coding Contest by Coding Club, JNTU
-- 🔥 Ranked **1675** in GeeksforGeeks Contest
 
 
 <p align="center">
