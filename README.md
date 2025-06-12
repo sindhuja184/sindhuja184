@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sindhuja Didugu</h1>
+<h1 align="center">Hi 👋, I'm Sindhuja</h1>
 <h3 align="center">Computer Science Engineering Student | AI & ML Enthusiast</h3>
 
 - 🎓 I'm currently pursuing **B.Tech in CSE with a specialization in AI & ML** from JNTUH University (CGPA: 9.26/10)
